@@ -2,7 +2,7 @@
 
 #### _An page showcasing my favorite Band_
 
-#### By _**By Shoshana Newman and Adrian Camacho**_
+#### _**By Shoshana Newman and Adrian Camacho**_
 
 ## Technologies Used
 
